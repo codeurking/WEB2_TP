@@ -1,4 +1,5 @@
-<?php $nom = "Esmata"; ?> 
+<?php $nom = "Esmata"; 
+// Deuxième modification pour le TP?> 
 <!DOCTYPE html> 
 <html lang="fr">
 <head>
